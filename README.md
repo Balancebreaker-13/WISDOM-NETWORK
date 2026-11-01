@@ -1,69 +1,43 @@
-# WISDOM NETWORK Governance Model
+# WISDOM NETWORK
 
-## Philosophy
+WISDOM NETWORK is now the primary active project repository.
 
-WISDOM NETWORK should operate through trust, transparency, and distributed stewardship rather than centralized control alone. The community must be empowered to shape the system, but the system must still protect quality, fairness, and continuity.
+This repository acts as the main home for the WISDOM NETWORK ecosystem, and the legacy research repository for the Bitcoin post-quantum migration work has been preserved under the archive section below.
 
-## Core Governance Principles
+## Project focus
 
-- participation is rewarded and visible
-- decisions are transparent
-- quality is validated through collective review
-- governance should adapt over time
-- stewardship is distributed across circles and roles
+WISDOM NETWORK is a collaborative intelligence ecosystem designed to connect knowledge, people, and action into a self-sustaining network with:
 
-## Governance Structure
+- community knowledge sharing
+- trust and reputation systems
+- peer review and governance
+- sustainable value exchange
+- collective problem-solving
 
-### 1. Community Members
-All participants contribute knowledge, discussion, and practical support.
+## Repository structure
 
-### 2. Knowledge Curators
-Members who consistently organize, validate, and elevate useful content.
+- `app/` — active product and MVP application foundation
+- `docs/` — architecture, roadmap, governance, and strategy documents
+- `archive/` — preserved legacy research content and historical work
+- `README.md` — project overview and active repo direction
+- `LICENSE` — Apache 2.0 license
 
-### 3. Working Circles
-Autonomous groups focused on specific domains such as:
+## Archived legacy repository
 
-- technology and tools
-- ethics and values
-- community growth
-- research and synthesis
-- impact and outcomes
+The prior project repository:
 
-### 4. Community Leads
-Selected or elected stewards who help coordinate working circles, propose initiatives, and maintain alignment with the mission.
+- github.com/Balancebreaker-13/bitcoin-wallet-post-quantum-migration
 
-### 5. Treasury and Grant Council
-Responsible for oversight of rules, funding allocation, and transparent use of ecosystem resources.
+has been preserved as archived reference material under:
 
-## Decision-Making Model
+- `archive/bitcoin-wallet-post-quantum-migration/README.md`
 
-Recommended approach:
+This keeps WISDOM NETWORK as the main operational project while retaining the historical research and prototype work for reference and continuity.
 
-- proposals are published openly
-- community discussion follows
-- weighted review or voting occurs according to contribution and trust
-- final decisions are documented and available for review
+## Mission
 
-## Trust and Moderation
+The mission of WISDOM NETWORK is to evolve from a public-facing idea into a self-regulating ecosystem where insight, governance, trust, and value reinforce one another.
 
-The network should use:
+## License
 
-- peer review
-- content quality metrics
-- reporting workflows
-- reputation-based moderation
-- escalation paths for serious policy violations
-
-## Governance Review Cycle
-
-Governance should be reviewed on a recurring basis to ensure:
-
-- the system remains aligned with mission
-- incentives remain healthy
-- new members are included fairly
-- resource allocation remains transparent
-- evolving community needs are addressed
-
-## Long-Term Goal
-
-The governance model should help the network become self-regulating, resilient, and adaptive without losing its human-centered foundation.
+This project is licensed under the Apache License 2.0.
