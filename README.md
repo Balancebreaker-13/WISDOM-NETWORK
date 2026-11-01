@@ -1,85 +1,69 @@
-# WISDOM NETWORK
+# WISDOM NETWORK Governance Model
 
-WISDOM NETWORK is a collaborative intelligence ecosystem built to connect knowledge, people, and action into a self-sustaining network for learning, problem-solving, and meaningful innovation.
+## Philosophy
 
-## Mission
+WISDOM NETWORK should operate through trust, transparency, and distributed stewardship rather than centralized control alone. The community must be empowered to shape the system, but the system must still protect quality, fairness, and continuity.
 
-We aim to create a network where insight becomes action. The platform brings together:
+## Core Governance Principles
 
-- community knowledge
-- peer validation
-- expert guidance
-- collaborative problem solving
-- shared value creation
+- participation is rewarded and visible
+- decisions are transparent
+- quality is validated through collective review
+- governance should adapt over time
+- stewardship is distributed across circles and roles
 
-## Vision
+## Governance Structure
 
-WISDOM NETWORK is designed to evolve from a community platform into a self-regulating ecosystem. It is structured around trust, shared governance, contribution, and sustainable value exchange.
+### 1. Community Members
+All participants contribute knowledge, discussion, and practical support.
 
-## Strategic Roadmap
+### 2. Knowledge Curators
+Members who consistently organize, validate, and elevate useful content.
 
-### Phase 1: Foundation and Value Alignment
-- Define the ecosystem mission and participant roles
-- Build trust through transparent contribution models
-- Capture both explicit and tacit knowledge
-- Launch a contribution and reputation system
+### 3. Working Circles
+Autonomous groups focused on specific domains such as:
 
-### Phase 2: Community Governance and Self-Regulation
-- Create autonomous circles and working groups
-- Implement peer review and validation models
-- Support collaborative decision-making and community ownership
-- Encourage open-source contribution and shared tooling
+- technology and tools
+- ethics and values
+- community growth
+- research and synthesis
+- impact and outcomes
 
-### Phase 3: Economic Circularity
-- Create internal credit and reward loops
-- Enable service exchange, advisory access, and premium knowledge products
-- Build a treasury and grant model for ecosystem sustainability
-- Develop a member marketplace for skills, expertise, and resources
+### 4. Community Leads
+Selected or elected stewards who help coordinate working circles, propose initiatives, and maintain alignment with the mission.
 
-### Phase 4: Autonomous Evolution and Scalability
-- Integrate AI-human synthesis loops
-- Expand federated collaboration with aligned networks
-- Use transparent impact metrics and governance dashboards
-- Scale through adaptive, community-led systems
+### 5. Treasury and Grant Council
+Responsible for oversight of rules, funding allocation, and transparent use of ecosystem resources.
 
-## Product Direction
+## Decision-Making Model
 
-The initial implementation is a web-based foundation for the network's public story, community framing, and future product expansion.
+Recommended approach:
 
-## Repository Structure
+- proposals are published openly
+- community discussion follows
+- weighted review or voting occurs according to contribution and trust
+- final decisions are documented and available for review
 
-- `index.html` — landing page
-- `styles.css` — visual system
-- `script.js` — interactions
-- `README.md` — project overview and roadmap
-- `docs/roadmap.md` — detailed ecosystem strategy
-- `LICENSE` — legal usage and protection for repository materials
+## Trust and Moderation
 
-## Local Development
+The network should use:
 
-Open `index.html` directly in a browser, or run a local static server:
+- peer review
+- content quality metrics
+- reporting workflows
+- reputation-based moderation
+- escalation paths for serious policy violations
 
-```bash
-python3 -m http.server 8000
-```
+## Governance Review Cycle
 
-Then visit:
+Governance should be reviewed on a recurring basis to ensure:
 
-```text
-http://localhost:8000
-```
+- the system remains aligned with mission
+- incentives remain healthy
+- new members are included fairly
+- resource allocation remains transparent
+- evolving community needs are addressed
 
-## Licensing
+## Long-Term Goal
 
-This repository is licensed under the Apache License 2.0.
-
-The purpose of this license is to protect the project materials, source code, documentation, and collaborative framework while preserving open use, contribution, and community participation. It also includes explicit patent protection language as part of the Apache 2.0 standard.
-
-Important legal note:
-- A software license protects repository content and code.
-- Trademarks, brand names, and protected concepts may require separate registration or legal review.
-- This repository protects the code and documentation; brand protection should be considered separately if the concept is commercialized at scale.
-
-## Core Principle
-
-The strongest foundation for WISDOM NETWORK is a closed value loop where contribution, recognition, trust, and reward reinforce each other. That loop is what enables long-term sustainability.
+The governance model should help the network become self-regulating, resilient, and adaptive without losing its human-centered foundation.
